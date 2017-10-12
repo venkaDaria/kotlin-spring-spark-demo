@@ -11,5 +11,3 @@ class HelloSpringController {
         return "index"
     }
 }
-
-// TODO: props (back-end)
