@@ -1,4 +1,4 @@
-package com.example.venka.javaspringsparkdemo;
+package com.example.venka.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -20,7 +20,7 @@ compileTestKotlin {
 buildscript {
     ext {
         kotlinVersion = '1.1.51'
-        springBootVersion = '2.0.0.M4'
+        springBootVersion = '1.5.8.RELEASE'
     }
     repositories {
         mavenCentral()

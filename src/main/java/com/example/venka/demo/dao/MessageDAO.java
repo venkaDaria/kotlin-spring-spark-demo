@@ -1,6 +1,6 @@
-package com.example.venka.javaspringsparkdemo.dao;
+package com.example.venka.demo.dao;
 
-import com.example.venka.javaspringsparkdemo.model.Message;
+import com.example.venka.demo.model.Message;
 import org.bson.types.ObjectId;
 
 import java.util.List;

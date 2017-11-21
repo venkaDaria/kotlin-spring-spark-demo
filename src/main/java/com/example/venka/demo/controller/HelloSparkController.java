@@ -1,6 +1,6 @@
-package com.example.venka.javaspringsparkdemo.controller;
+package com.example.venka.demo.controller;
 
-import com.example.venka.javaspringsparkdemo.service.MessageService;
+import com.example.venka.demo.service.MessageService;
 import com.google.gson.Gson;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

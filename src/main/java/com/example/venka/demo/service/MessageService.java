@@ -1,6 +1,6 @@
-package com.example.venka.javaspringsparkdemo.service;
+package com.example.venka.demo.service;
 
-import com.example.venka.javaspringsparkdemo.model.Message;
+import com.example.venka.demo.model.Message;
 import org.bson.types.ObjectId;
 
 import java.util.List;

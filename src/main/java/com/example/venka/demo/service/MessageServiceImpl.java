@@ -1,7 +1,7 @@
-package com.example.venka.javaspringsparkdemo.service;
+package com.example.venka.demo.service;
 
-import com.example.venka.javaspringsparkdemo.dao.MessageDAO;
-import com.example.venka.javaspringsparkdemo.model.Message;
+import com.example.venka.demo.dao.MessageDAO;
+import com.example.venka.demo.model.Message;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
