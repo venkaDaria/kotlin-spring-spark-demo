@@ -4,6 +4,8 @@ gradle/
 build/
 out/
 
+*.iml
+
 /src/main/resources/node_modules/
 
 **/.DS_Store
